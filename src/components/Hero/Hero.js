@@ -11,7 +11,7 @@ const Hero = () => {
             <div className="container">
                 <div className="card-all">
                 <div className="card-box">
-                        <div className="card-link">
+                        <div className="card-linkk">
                         <div className="card-nav">
                             <IoLogoApple className='img' />
                             </div>

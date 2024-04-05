@@ -172,11 +172,11 @@ font-size: 18px;
         /* height:161px; */
         width: 100%;
         padding: 10px 15px;
-        transition: all .2s linear;}
+        transition: all .3s linear;}
         .section-row:hover{
             border: 1px solid gray;
         border-radius: 8px;
-        transform: scale(1.01);
+        transform: scale(1.1);
         box-shadow: 5px 5px 5px 5px rgb(176, 174, 174);
         }
         .img{
