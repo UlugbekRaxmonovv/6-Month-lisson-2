@@ -166,8 +166,8 @@ const Main = () => {
     ]
 
     let creadCard =Card.map((result)=>
-    <div className="hammasi-all" key={result.id}  data-aos="flip-left">
-                 <div className="imagi">
+    <div className="hammasi-all1" key={result.id}  data-aos="flip-left">
+                 <div className="imagis">
                     <img src={result.img} alt="" />
                     <div className="icon">
                  <div className="icon-all">
@@ -274,40 +274,14 @@ const Main = () => {
             </div>
 
 
-            <div className="hammasi">
+            <div className="hammasi1">
               
                 {creadCard}
                 </div>
 
 
 <div class="section-all">
-    {/* <div className="section-row">
-        <div className="img">
-            <div className="imagi">
-                <img src="./img/rasm.png" alt=""/>
-            </div>
-           </div>
-        <h1>FREE AND FAST DELIVERY</h1>
-        <p>Free delivery for all orders over $140</p>
-    </div>
-    <div className="section-row">
-        <div className="img">
-            <div className="imagi">
-                <img src="./img/rasm1.png" alt=""/>
-            </div>
-           </div>
-        <h1>24/7 CUSTOMER SERVICE</h1>
-        <p>Friendly 24/7 customer support</p>
-    </div>
-    <div className="section-row">
-        <div className="img">
-            <div className="imagi">
-                <img src="./img/rasm2.png" alt=""/>
-            </div>
-           </div>
-        <h1>MONEY BACK GUARANTEE</h1>
-        <p>We reurn money within 30 days</p>
-    </div> */}
+
     {javob}
   </div>
 
