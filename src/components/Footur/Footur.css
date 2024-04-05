@@ -1,0 +1,114 @@
+footer{
+    background-color: black;
+    margin-top: 3%;
+}
+.footur{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 85px;
+    padding: 40px 0;
+}
+ul >h1{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: white;
+}
+li{
+    line-height: 2;
+    margin-top:10%;}
+ a{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: white;
+
+
+    }
+
+    .input-1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 350px;
+        width: 100%;
+        height: 50px;
+        background-color: #000000;
+        border: 1px solid gray;
+        border-radius: 8px;
+    }
+        .input-all1{
+            display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+
+ .input-all1 >input{
+            outline: none;
+            border: none;
+            background-color: black !important;
+            color: white;
+        }
+   input >::placeholder{
+                color: white;
+            }
+  .tili{
+    color: white;
+  }
+
+
+  .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+
+}
+    .iamgi >img{
+            width: 96px;
+            height: 96px;
+    
+            
+        }
+    .rasm{
+        display: flex;
+        flex-direction: column;
+    }
+        .rasm1 > img{
+                width: 110px;
+                height: 40px;
+    
+            }
+
+            .ikon{
+                display: flex;
+                align-items: center;
+                gap: 30px;
+            }
+            .etim-list{
+                color: white;
+                font-size: 30px;
+            }
+
+            .tixit{
+                border-top: 1px solid gray;
+                padding: 12px 0;
+                background-color: #000000;}
+                h3{
+                    color: white;
+                    text-align: center;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+    
+                }
+
+
+
